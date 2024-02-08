@@ -35,3 +35,22 @@ body {
   align-items: center;
   height: 100vh;
 }
+
+.postGrid{
+  display: flex;
+  align-items: center;
+}
+
+.card{
+  padding: 20px;
+  border: 1px solid #393a36;
+  margin: 20px;
+  text-align: center;
+}
+
+.card img{
+  margin: auto;
+  max-width: 200px;
+  border-radius: 100%;
+  margin-top: 10px;
+}
